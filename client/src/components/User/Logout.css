@@ -1,0 +1,11 @@
+.logout-container {
+  width: 30em;
+  margin: 15em auto auto auto;
+  padding: 2em 1em 2em 1em;
+}
+
+#logout-message {
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}

@@ -1,0 +1,31 @@
+.signup-form {
+  display: flex;
+  flex-direction: column;
+  padding: 1em 2em 1em 2em;
+  margin: 10em auto auto auto;
+  width: 30em;
+}
+
+.signup-form > input {
+  margin: 1em auto 0em auto;
+  width: 20em;
+  height: 3em;
+  padding: 0.5em 1em 0.5em 1em;
+  border-radius: 1em;
+}
+
+.signup-form > button {
+  width: 10em;
+  height: 4em;
+  margin: 1.5em auto auto auto;
+  padding: 0.5em 1em 0.5em 1em;
+  border-radius: 1em;
+  background-color: coral;
+  font-size: 1em;
+}
+
+.signup-form > h3 {
+  text-align: center;
+  color: white;
+  font-size: 2em;
+}

@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-image: url(./images/background_train.jpg);
+}
+
+button{
+  cursor: pointer;
+}
